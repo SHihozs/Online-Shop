@@ -25,8 +25,14 @@
          - Add more variables and methods as needed
          
 # 3. Implement class OnlineShop as the main class. When the program starts
+      - Read data from products.txt into array or ArrayList of Products
+      - Read data from postages.txt into array or ArrayList of Postages
+      - Read data from customers.txt into array or ArrayList of Customers
 
 # 4. The program must be able to handle the following errors/exceptions
+     - Missing files
+     - File customers.txt may contain input errors. You may use 2 separate files, one with clean input and
+another with errors.
 
 # 5. In summary, your program must have
      - Files : products.txt, postages.txt, customers.txt with your own data (10 lines)

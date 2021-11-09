@@ -1,5 +1,8 @@
 # Online-Shop
 
+## Authors
+- [Devicez](https://github.com/Devicez)
+
 ## FILE IN /SRC FOLDER
 - OnlineShop.java
 

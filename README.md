@@ -16,16 +16,16 @@
 
  ## REQUIREMENTS
 # 1. Copy the following data to file products.txt. 
-      - Each line contains product name, price, and weight
+      - Each line contains the product name, price, and weight
       # Implement class Product, with at least the following
-         - Variables name, price, weight : values are read from each line of products.txt
-         - Variables totalSalesInCash and totalSalesInUnits : keep the total sales of each product
+         - Variables name, price, weight: values are read from each line of products.txt
+         - Variables totalSalesInCash and totalSalesInUnits: keep the total sales of each product
          - Add more variables and methods as needed 
   
 # 2. Copy the following data to file postages.txt. 
-      - Each line contains type (“E” for EMS, “R” for registered), min weight (exclusive), max weight (inclusive), and rate
+      - Each line contains the type (“E” for EMS, “R” for registered), min weight (exclusive), max weight (inclusive), and rate
       # Implement class Postage, with at least the following
-         - Variables type, minWeight, maxWeight, rate : values are read from each line of postages.txt
+         - Variables type, minWeight, maxWeight, rate: values are read from each line of postages.txt
          - Add more variables and methods as needed
          
 # 3. Implement class OnlineShop as the main class. When the program starts
@@ -39,5 +39,5 @@
 another with errors.
 
 # 5. In summary, your program must have
-     - Files : products.txt, postages.txt, customers.txt with your own data (10 lines)
-     - Classes : Product, Postage, Customer, OnlineShop (main class)
+     - Files: products.txt, postages.txt, customers.txt with your data (10 lines)
+     - Classes: Product, Postage, Customer, OnlineShop (main class)
